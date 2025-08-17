@@ -1,5 +1,4 @@
-﻿using FFMediaToolkit;
-using FFMediaToolkit.Decoding;
+﻿using FFMediaToolkit.Decoding;
 using FFMediaToolkit.Graphics;
 using Microsoft.Xna.Framework.Graphics;
 using System;
