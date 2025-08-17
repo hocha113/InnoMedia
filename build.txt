@@ -1,0 +1,4 @@
+﻿displayName = InnoMedia
+dllReferences = FFMediaToolkit, FFmpeg.AutoGen
+author = HoCha113
+version = 1.0
